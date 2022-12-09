@@ -1,7 +1,7 @@
 <h1 align="center">Mehaba Ozankesatx80</h1>
 <h3 align="center">Ben node.js , javascript ve Minecraft sunucu Geliştiricisiyim</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">İletişim için:</h3>
 <p align="left">
 <a href="https://twitter.com/@ozan97092892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ozan97092892" height="30" width="40" /></a>
 <a href="https://instagram.com/ozankesatx80_officall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ozankesatx80_officall" height="30" width="40" /></a>
